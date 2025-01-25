@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bottlecoder-raj](https://github.com/bottlecoder-raj?tab=repositories)
+- 👨‍💻 All of my projects are available at [MY REPOSITORIES](https://github.com/bottlecoder-raj?tab=repositories)
 
 - 💬 Ask me about **C language,Arduino and IOT**
 
