@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajnarayan Hazra</h1>
+ <h1 align="center">Hi 👋, I'm Rajnarayan Hazra</h1>
 <h3 align="center">A passionate coder from India</h3>
 
 - 🔭 I’m currently working on [OFFLINE UPI PAYMENT APP](https://github.com/bottlecoder-raj/OFFLINE-UPI-APP-)
