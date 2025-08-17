@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **JAVA**
 
+- 📷 [My Portfolio](https://portfolio-nine-pi-81.vercel.app/)
+
 - 👨‍💻 All of my projects are available at [MY REPOSITORIES](https://github.com/bottlecoder-raj?tab=repositories)
 
-- 📽️My latest project is [Smart lamp + Bluetooth Speaker](https://github.com/bottlecoder-raj/ARDUINO-ESP8266-MINI/tree/main/Smart%20Lamp%2BSpeaker)
+- 🧑‍💻 My latest project is [Smart lamp + Bluetooth Speaker](https://github.com/bottlecoder-raj/ARDUINO-ESP8266-MINI/tree/main/Smart%20Lamp%2BSpeaker)
 
 - 💬 Ask me about **C language, Arduino, and IOT**
 
