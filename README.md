@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **OpenCv Projects**
 
-- 👨‍💻 All of my projects are available at [MY REPO](https://github.com/bottlecoder-raj?tab=repositories](https://github.com/bottlecoder-raj?tab=repositories)
+- 👨‍💻 All of my projects are available at [MY REPO](https://github.com/bottlecoder-raj?tab=repositories)
 
 - 💬 Ask me about **Embedded System,C,IOT**
 
 - 📫 How to reach me **hazrarajnarayan55@gmail.com**
 
-- 📄 Know about my experiences [PORTFOLIO](https://portfolio-nine-pi-81.vercel.app/](https://portfolio-nine-pi-81.vercel.app/)
+- 📄 Know about my experiences [PORTFOLIO](https://portfolio-nine-pi-81.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
