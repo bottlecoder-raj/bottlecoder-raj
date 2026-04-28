@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJNARAYAN HAZRA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bottlecoder-raj&label=Profile%20views&color=0e75b6&style=flat" alt="bottlecoder-raj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bottlecoder-raj" alt="bottlecoder-raj" /></a> </p>
 
@@ -11,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **OpenCv Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bottlecoder-raj?tab=repositories](https://github.com/bottlecoder-raj?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/bottlecoder-raj?tab=repositories)
 
 - 💬 Ask me about **Embedded System,C,IOT**
 
 - 📫 How to reach me **hazrarajnarayan55@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-nine-pi-81.vercel.app/](https://portfolio-nine-pi-81.vercel.app/)
+- 📄 Know about my experiences [PORTFOLIO](https://portfolio-nine-pi-81.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
