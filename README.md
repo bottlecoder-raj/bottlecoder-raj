@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJNARAYAN HAZRA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bottlecoder-raj" alt="bottlecoder-raj" /></a> </p>
-
 - 🔭 I’m currently working on [WIRELESS SERIAL DEVICE](https://github.com/bottlecoder-raj/WIRELESS-SERIAL-DEVICE)
 
 - 🌱 I’m currently learning **OpenCV**
@@ -16,7 +13,7 @@
 
 - 📫 How to reach me **hazrarajnarayan55@gmail.com**
 
-  - 📄 Know about my experiences [PORTFOLIO](https://portfolio-nine-pi-81.vercel.app/)
+- 📄 Know about my experiences [PORTFOLIO](https://portfolio-nine-pi-81.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
