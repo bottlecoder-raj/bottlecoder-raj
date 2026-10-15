@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAJNARAYAN HAZRA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🔭 I’m currently working on [PCB DRILLING MACHINE]([https://github.com/bottlecoder-raj/WIRELESS-SERIAL-DEVICE](https://github.com/bottlecoder-raj/DIY-PCB-DRILLING))
+- 🔭 I’m currently working on [PCB DRILLING MACHINE](https://github.com/bottlecoder-raj/DIY-PCB-DRILLING)
 
 - 🌱 I’m currently learning **OpenCV**
 
